@@ -1,5 +1,5 @@
-# windos-template
-A simple template repository for developing python apps on Windows with the help with docker.
+# python-windows-template
+A simple template repository for developing python apps on Windows with Docker.
 
 ### To build and run with docker-compose:
 ```
